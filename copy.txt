@@ -1,0 +1,57 @@
+<table style="background:#FF9999" width="50%" height="30%">
+	<tr>
+	<th>User Name :</th>
+	<td><input type="email"  placeholder="Enter your name"/></td>
+	</tr>
+	<tr>
+	<th>Password:</th>
+	<td><input type="password" placeholder="Enter your password"/></td>
+	</tr>
+	<tr>
+	<th>Date Of Birth:</th>
+	<td><input type="date" placeholder="Enter your date of birth"/></td>
+	</tr>
+	<tr>
+	<th>Mobile Number:</th>
+	<td><input type="Number" placeholder="Enter your mobileNumber"/></td>
+	</tr>
+	<tr>
+	<th>State:</th>
+	<td><select>
+	<option value="">Andhra Pradesh</option>
+	<option value="">Tamil Nadu</option>
+	<option value="">Delhi</option>
+	<option value="Uttar pradesh">Uttar pradesh</option>
+	</select></td>
+	</tr>
+	<tr>
+	<th>City:</th>
+	<td><input type="text" placeholder="Enter your City"/></td>
+	</tr>
+	<tr>
+	<th>Address:</th>
+	<td><textArea name=" " rows="4" cols="30" placeholder="Enter your Address"></textArea></td>
+	</tr>
+	<tr>
+	<th>Gender :</th>
+	<td><input type="radio" name="Gender" >Female</td>
+	<td><input type="radio" name="Gender">Male</td>
+	<td><input type="radio" name="Gender">Others</td>
+	</tr>
+	<tr>
+	<th>Known Languages :</th>
+	<td><input type="checkbox">Telugu</td>
+	<td><input type="checkbox">Hindi</td>
+	<td><input type="checkbox">English</td>
+	</tr>
+	<tr>
+	<th>Choose A file :</th>
+	<td><input type="File"></td>
+	</tr>
+	<tr>
+	<td><center><a href="htmlcaa.html">Submit Form</a></center></td>
+	</tr>
+	<tr>
+	<td><center><a href="htmlcaa.html">Cancle Form</a></center></td>
+	</tr>
+	</table>
